@@ -9,7 +9,7 @@ const POPULAR_GIFS = ['Matrix', 'mapache', 'Blender', 'Morty']
 function Home() {
 	const [keyword, setKeyword] = useState('')
 	const [path, pushLocation] = useLocation()
-	const { loading, gifs } = useGifs()
+	const { gifs } = useGifs()
 
 	const handleSubmit = evt => {
 		evt.preventDefault()
