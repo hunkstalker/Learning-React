@@ -1,3 +1,3 @@
-export const API_KEY = 'hhEC9F6tOi4cRbV5sJ3tjV6XaJUjTSwu'
+export const API_KEY = 'dIJrma20pSU6ymMwWnDbiaT7NFHeAGVa'
 
 export const API_URL = 'https://api.giphy.com/v1'
