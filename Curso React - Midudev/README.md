@@ -9,7 +9,7 @@
 
 <main>
   <div align="center">
-    <p><strong>Desarrollador JavaScript Full Stack</strong> con más de 10 años experiencia.</p>
+    <p><strong>Desarrollador JavaScript Full Stack</strong> con más de 10 años de experiencia.</p>
   </div>
 </main>
 
